@@ -44,3 +44,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# bp_react_actions_auth
+
+React boilerplate with Github Actions, basic routing, and user auth setup. Deployed to GH Pages.
